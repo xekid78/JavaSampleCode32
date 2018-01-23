@@ -1,0 +1,2 @@
+# JavaSampleCode32
+superを使って親クラスのメンバ変数を変える
