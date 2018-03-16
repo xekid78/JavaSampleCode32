@@ -1,8 +1,8 @@
-# JavaSuper
-superを使って親クラスのメンバ変数を変える
+# JavaSuperMethod
+super()メソッドを使って親クラスのメンバ変数を変える
 
 ## 処理
-superを使って、JewelryBoxクラスから親クラスのコンストラクタの変数を変えて出力。
+super()メソッドを使って、JewelryBoxクラスから親クラスのコンストラクタの変数を変えて出力。
 
 ## コード
 ```
@@ -53,5 +53,6 @@ class JewelryBox1 extends Box1 {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
