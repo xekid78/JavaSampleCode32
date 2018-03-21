@@ -6,7 +6,7 @@ super()メソッドを使って、JewelryBoxクラスから親クラスのコン
 
 ## コード
 ```
-public class Sample32 {
+public class Super2 {
 
 	public static void main(String[] args) {
 		Box1 box = new Box1("鋼鉄の剣");
